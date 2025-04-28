@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="bg-gray-800">
+    <div className="bg-gray-800 px-2">
       <ul className="flex flex-col md:flex-row md:space-x-4 items-start md:items-center">
         <h1 className="text-3xl font-bold text-left py-4 text-white w-full">
           Flowbite
