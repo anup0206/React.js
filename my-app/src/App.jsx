@@ -1,8 +1,12 @@
 
+import React from "react";
+import Navbar from "./Navbar";
 const App =() =>{
   return(
-    <h1>Hello . My name is Anupam</h1>
-    
+    <div> 
+      <Navbar /> 
+       </div>
+
 
   );
 }
