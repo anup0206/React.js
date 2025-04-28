@@ -10,6 +10,7 @@ const Navbar = () => {
         <li className="text-3xl font-bold text-right py-2 text-white w-full">
           <a href="#">Home</a>
         </li>
+        img
         <li className="text-3xl font-bold text-right py-2 text-white w-full">
           <a href="#">Dropdown</a>
         </li>
